@@ -1,4 +1,4 @@
-# Bem Vindo ao meu Perfil
+# Bem Vindo ao meu perfil
 
 Estou a mais de uma década no campo da tecnologia. Minha jornada começou em 2011, envolvendo-se inicialmente com a manutenção de computadores e servidores antes de direcionar meu foco para o desenvolvimento de sistemas e portais na internet.
 
